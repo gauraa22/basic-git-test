@@ -1,2 +1,0 @@
-Test2: file6
-Modification has been done
